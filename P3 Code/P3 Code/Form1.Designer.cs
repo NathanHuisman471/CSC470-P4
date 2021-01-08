@@ -116,6 +116,7 @@
         private System.Windows.Forms.Button CancelButton;
         private System.Windows.Forms.Label UsernameLabel;
         private System.Windows.Forms.Label PasswordLabel;
+
     }
 }
 
